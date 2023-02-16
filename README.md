@@ -12,5 +12,6 @@ The proposed system is supposed to pick up the citizens’ property details , wh
 Wireframe :
 
 ![image](https://user-images.githubusercontent.com/72906035/219254410-a3d490da-b8cb-4dbf-91d8-b1ab6dacebc0.png)
+--------------------------------------------------------------------------------------------------------
 
-![image](https://user-images.githubusercontent.com/72906035/219253980-5fcac478-ef58-4c69-92db-d13a1c911654.png)
+![image](https://user-images.githubusercontent.com/72906035/219255443-2ff6e3e5-a7b8-44b5-86cc-3aed361d6825.png)
