@@ -51,6 +51,10 @@
 			</tbody>
 			
 		</table>
+		
+		<form action="/">
+				<button class="btn btn-primary">Back</button>
+		</form>
 	</div>
 </body>
 </html>
